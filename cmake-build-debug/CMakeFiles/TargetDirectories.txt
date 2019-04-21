@@ -1,0 +1,3 @@
+C:/Users/Steve/INF/VM/cmake-build-debug/CMakeFiles/VM.dir
+C:/Users/Steve/INF/VM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Steve/INF/VM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
